@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AidlPro</string>
+    <string name="book_name">name</string>
+    <string name="book_add">ADD</string>
+    <string name="book_search">Search Book List</string>
+    <string name="book_id">book id</string>
+</resources>
