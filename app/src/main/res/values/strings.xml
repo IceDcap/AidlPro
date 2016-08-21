@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AidlDemo</string>
+    <string name="book_id">Book Id</string>
+</resources>
